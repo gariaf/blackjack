@@ -1,5 +1,6 @@
 // juego.cpp
-// Definición de la clase Juego
+// DefiniciÃ³n de la clase Juego
+//edicion por GerardoArias
 
 #include "juego.h"
 
